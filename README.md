@@ -1,4 +1,4 @@
-                                                   E-Commerce Web Application
+E-Commerce Web Application
 
 Project Overview:
 This is a full-stack E-commerce web application where users can browse products, add items to their cart, place orders, and track their order history. Admins can manage products, users, and orders via a dedicated admin panel.
